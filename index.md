@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -53,7 +52,7 @@
           <p class="mb-4">
             Hello! I'm Dimas Bayu
             <div>
-              <img src="img/foto_kuliah.jpg" class="foto">
+              <img src="img/foto_kuliah.JPG" class="foto">
             </div>
           </p>
           <p>
